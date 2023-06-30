@@ -1,0 +1,16 @@
+/* * {
+  background: rgba(215, 215, 215, 0.2) !important;
+} */
+
+.slick-current .card {
+  box-shadow: 0px 16px 40px 0px rgba(154, 148, 148, 0.25);
+}
+
+.slick-dots li.slick-active button:before {
+  color: #7a3199 !important;
+  opacity: 1 !important;
+}
+
+.slick-dots li {
+  scale: 2;
+}
